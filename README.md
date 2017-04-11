@@ -11,7 +11,7 @@ a gallery demo by react
   `npm run release`
   
 ## 项目演示
-<https://github.com/zhangyuting1993/react-gallery/>
+<https://zhangyuting1993.github.io/react-gallery/>
   
  
 
