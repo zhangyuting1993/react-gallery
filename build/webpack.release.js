@@ -8,7 +8,7 @@ var online = args.indexOf('--deploy=online') > -1;
 // 测试环境静态资源 domain
 var testPublicPath = '/';
 // 生产环境静态资源 domain
-var onlinePublicPath = '/';
+var onlinePublicPath = '';
 
 if (online) {
   config.output.publicPath = onlinePublicPath; 
